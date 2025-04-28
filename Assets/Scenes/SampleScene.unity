@@ -224,7 +224,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cargaContratada: 10000
-  kmContratados: 99
+  kmContratados: 100
 --- !u!4 &2028138632
 Transform:
   m_ObjectHideFlags: 0
